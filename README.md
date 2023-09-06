@@ -2,7 +2,7 @@
 
 ###### Este currículo contém informações relevantes sobre cursos e aptidões na área de desenvolvimento.
 
-![](site.png)
+![curriculo](site.png)
 
 > Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar meu currículo
 

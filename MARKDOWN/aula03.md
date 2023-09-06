@@ -45,7 +45,7 @@ Outra forma
 
 # Imagens locais
 
-![Geek](favicon.ico "Geek University")
+![Geek](/favicon.ico "Geek University")
 
 # Imagens da Web
 
