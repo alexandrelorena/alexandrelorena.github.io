@@ -4,6 +4,7 @@
 
 ![currículo](site.png)
 
-> Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar meu currículo
+> Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o currículo
+> 
+>[![](images/linkedin1.png)](https://www.linkedin.com/in/alexandreluizlorena/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![](images/instagram1.png)](https://www.instagram.com/alexandre_lorena/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  [![](images/email3.png)](mailto:alexandre.lorena@gmail.com)  
 
- [![](images/linkedin1.png)](https://www.linkedin.com/in/alexandreluizlorena/)   [![](images/instagram1.png)](https://www.instagram.com/alexandre_lorena/)   [![](images/email3.png)](mailto:alexandre.lorena@gmail.com)  
