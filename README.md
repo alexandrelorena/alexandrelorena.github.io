@@ -5,7 +5,7 @@
 
 [![currículo](site.png)](https://alexandrelorena.github.io/index.html#home)
 
->Este currículo contém informações relevantes sobre os cursos e minhas aptidões na área de desenvolvimento.
+>Este currículo contém informações relevantes sobre os cursos e minhas aptidões na área de <br>desenvolvimento.
 
 <br>
     <a href="mailto:alexandre.lorena@gmail.com"
