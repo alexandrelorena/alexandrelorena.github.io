@@ -1,9 +1,11 @@
 # Currículo
 
-###### Clique [aqui](https://alexandrelorena.github.io/index.html#home) para acessar o meu  online
-##### Este currículo contém informações relevantes sobre cursos e aptidões na área de desenvolvimento.
+###### [Clique na imagem](https://alexandrelorena.github.io/index.html#home) para acessar o  curriculo!
 
-![currículo](site.png)
+
+[![currículo](site.png)](https://alexandrelorena.github.io/index.html#home)
+
+>Este currículo contém informações relevantes sobre os cursos e minhas aptidões na área de desenvolvimento.
 
 <br>
     <a href="mailto:alexandre.lorena@gmail.com"
