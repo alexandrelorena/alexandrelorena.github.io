@@ -466,7 +466,7 @@ body > footer .copyrights {
   z-index: 1;
 }
 
-.subpages {
+.subpages {t
   position: relative;
   width: 100%;
   margin: 0 auto;
@@ -839,7 +839,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #4f5b9f;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
