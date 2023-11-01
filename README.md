@@ -5,15 +5,12 @@
 
 [![currículo](site-azul.png)](https://alexandrelorena.github.io/index.html#home)
 
->Este currículo contém informações relevantes sobre os cursos e minhas aptidões na área de <br>desenvolvimento.
-
-
 
 <div>
 <!--git status-->
 <a href="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react">
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react"></a><!--most used languages--><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5">
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5"></a><!--wakatime--><a href = "https://wakatime.com/alexandrelorena"> <img height="130" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
+<img height="136" src="https://github-readme-stats.vercel.app/api?username=alexandrelorena&show_icons=true&theme=react"></a><!--most used languages--><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5">
+<img height="136" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelorena&hide=TeX&layout=donut&theme=react&size_weight=0.5&count_weight=0.5"></a><!--wakatime--><a href = "https://wakatime.com/alexandrelorena"> <img height="136" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandrelorena&v=2&theme=react"></a>
 </div>
 
 <br>
