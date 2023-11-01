@@ -1,6 +1,6 @@
 # Currículo
 
-###### [Clique aqui](https://alexandrelorena.github.io/index.html#home) ou na imagem para acessar o  curriculo!
+#### [Clique aqui](https://alexandrelorena.github.io/index.html#home) ou na imagem para acessar o  curriculo!
 
 
 [![currículo](site-azul.png)](https://alexandrelorena.github.io/index.html#home)
