@@ -2,7 +2,10 @@
 
 ### [Click here](https://alexandrelorena.github.io/index.html) or in the image to access my online resume.
 
-<img src="site-azul.png" width="780" height="450">
+<div align="justify" style="max-width: 800px;">
+  <a href="https://alexandrelorena.github.io/index.html">
+  <img src="site-azul.png"width="780" height="450"></a>
+</div>
 
 <!DOCTYPE html>
 <html lang="pt-br">
