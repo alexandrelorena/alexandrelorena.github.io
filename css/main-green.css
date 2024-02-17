@@ -466,7 +466,7 @@ body > footer .copyrights {
   z-index: 1;
 }
 
-.subpages {t
+.subpages {
   position: relative;
   width: 100%;
   margin: 0 auto;
@@ -503,7 +503,7 @@ body > footer .copyrights {
 
 .pt-page .section-inner {
   position: relative;
-  background-color: #fff;
+  background-color: #ffffff;
   overflow: hidden;
   border-radius: 15px;
   -webkit-box-shadow: 0px 15px 25px 0px rgba(0,0,0,0.1);
@@ -1431,7 +1431,7 @@ body > footer .copyrights {
 }
 
 .portfolio-grid figure {
-  width: 33.33333%;
+  width: 100%;
   float: left;
   padding: 3px;
 }
@@ -1464,7 +1464,7 @@ body > footer .copyrights {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #2eca7f;
+  background-color: #4F5B9F;
   color: #fff;
 }
 
