@@ -134,13 +134,39 @@
 
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <ul class="info-list">
-                        <li><span class="title">Idade:</span><span class="value">49</span></li>
+                        <li><span class="title">Idade:</span><span class="value" id="idade"></span></li>
                         <li><span class="title">Nacionalidade:</span><span class="value">Brasil</span></li>
                         <li><span class="title">Cidade/Estado:</span><span class="value">São Paulo, SP</span></li>
-                        <li><span class="title">E-mail:</span><span class="value">alexandre.lorena@gmail.com.br</span></li>
+                        <li><span class="title">E-mail:</span><span class="value"><a href="mailto:alexandre.lorena@gmail.com.br">alexandre.lorena@gmail.com.br</a></span></li>
                         <li><span class="title">Fone:</span><span class="value">+5511 98277-2210</span></li>
-                        <li><span class="title">Objetivo:</span><span class="value available">Python Developer | Java Developer</span></li>                      </ul>
+                        <li><span class="title">Objetivo:</span><span class="value available">Python Developer | Java Developer</span></li>
+                      </ul>
                     </div>
+                    
+                    <script>
+                      // Função para calcular a idade com base na data de nascimento
+                      function calcularIdade(dataNascimento) {
+                        var hoje = new Date();
+                        var nascimento = new Date(dataNascimento);
+                        var idade = hoje.getFullYear() - nascimento.getFullYear();
+                    
+                        if (hoje.getMonth() < nascimento.getMonth() || (hoje.getMonth() === nascimento.getMonth() && hoje.getDate() < nascimento.getDate())) {
+                          idade--;
+                        }
+                    
+                        return idade;
+                      }
+                    
+                      // Defina a data de nascimento (no formato AAAA-MM-DD)
+                      var dataNascimento = '1974-08-03';
+                    
+                      // Obtenha o elemento span onde a idade será exibida
+                      var elementoIdade = document.getElementById('idade');
+                    
+                      // Calcule a idade e defina o texto do elemento
+                      elementoIdade.textContent = calcularIdade(dataNascimento);
+                    </script>
+                    
 
                   </div>
                 </div>
