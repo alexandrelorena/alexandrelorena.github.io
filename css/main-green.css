@@ -315,10 +315,10 @@ textarea.form-control, textarea.form-control:focus {
 .btn-secondary,
 button, input[type="button"], input[type="submit"] {
   text-transform: uppercase;
-  font-family: inherit;
-  font-size: 14px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
   font-weight: 500;
-  line-height: 2.8;
+  line-height: 2.5;
   padding: 0 1.5em;
   outline: none;
   border: 0;
@@ -329,7 +329,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #2eca7f;
+  background-color: #4E5B9F;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -939,7 +939,11 @@ body > footer .copyrights {
 }
 
 .start-page-content .page-content .download-resume {
-  margin-top: 15px;
+  margin-top: 4px;
+}
+
+.custom-margin-before {
+  margin-left: 70px; /* Ajuste conforme necessário */
 }
 
 .info-list {
@@ -2326,7 +2330,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #2eca7f;
+    background-color: #6066a0;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
