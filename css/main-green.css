@@ -44,7 +44,7 @@
 
 /* ============================================================================= 
 2. General styles
-============================================================================= */
+=============================================================== ============== */
 
 html {
   position: relative;
@@ -600,7 +600,7 @@ body > footer .copyrights {
   position: fixed;
   width: 100%;
   height: 100px;
-  background-color: transparent;
+  background-color: whitesmoke;
   z-index: 2;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
