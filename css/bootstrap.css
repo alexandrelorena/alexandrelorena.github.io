@@ -200,7 +200,7 @@ th {
   }
   a,
   a:visited {
-    text-decoration: underline;
+    text-decoration: transparent;
   }
   a[href]:after {
     content: " (" attr(href) ")";
@@ -4896,18 +4896,18 @@ a.label:focus {
   background-color: #31b0d5;
 }
 .label-warning {
-  background-color: #f0ad4e;
+  background-color: transparent;
 }
 .label-warning[href]:hover,
 .label-warning[href]:focus {
-  background-color: #ec971f;
+  background-color: transparent;
 }
 .label-danger {
-  background-color: #d9534f;
+  background-color: transparent;
 }
 .label-danger[href]:hover,
 .label-danger[href]:focus {
-  background-color: #c9302c;
+  background-color: transparent;
 }
 .badge {
   display: inline-block;

@@ -528,7 +528,7 @@ body > footer .copyrights {
 .pt-page-current,
 .no-js .pt-page {
   visibility: visible;
-  z-index: 90;
+  z-index: 190;
   opacity: 1;
   overflow: visible;
   height: auto;
@@ -1444,7 +1444,7 @@ body > footer .copyrights {
 }
 
 .portfolio-grid figure {
-  width: 33.33333%;
+  width: 33.33%;
   float: left;
   padding: 1px;
 }
@@ -2381,7 +2381,7 @@ blockquote footer, blockquote small, blockquote .small {
 
   .blog-masonry.two-columns .item,
   .blog-masonry.three-columns .item {
-    width: 100%;
+    width: 10%;
   }
 }
 
