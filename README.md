@@ -33,8 +33,8 @@
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexandreluizlorena/" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/alefaith" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/twitter" alt="Twitter" width="32" height="32"></a>&nbsp;&nbsp;
+  <a href="https://x.com/alefaith" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/x" alt="x" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@alefaith2008/featured" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/alexandrelorena/" style="text-decoration: none;">
