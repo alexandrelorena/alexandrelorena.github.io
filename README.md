@@ -35,12 +35,14 @@
     <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://x.com/alefaith" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/x" alt="x" width="32" height="32"></a>&nbsp;&nbsp;
-  <a href="" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@AleDevJavaPython" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/alexandrelorena/" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/steam/gray" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://discord.com/channels/alelorena" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/discord" width="32" height="32"></a>
+    <img src="https://cdn.simpleicons.o
+    
+    rg/discord" width="32" height="32"></a>
 </div>
 </body>
 </html>
