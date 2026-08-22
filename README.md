@@ -23,9 +23,8 @@
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
   <!------------------------------------------->
-    <a href="https://www.linkedin.com/in/alexandrelorena-developer/" style="text-decoration: none;">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="LinkedIn" width="32" height="32">
-    </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alexandrelorena-developer/" style="text-decoration: none;">
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="LinkedIn" width="32" height="32"></a>&nbsp;&nbsp;
   <!------------------------------------------->
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="32" height="32"></a>&nbsp;&nbsp;
