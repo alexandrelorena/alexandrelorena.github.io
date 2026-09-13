@@ -4,7 +4,7 @@
 
 <div align="justify" style="max-width: 800px;">
   <a href="https://alexandrelorena.github.io/index.html">
-    <img src="site-azul.png" width="780" height="450" alt="Online resume preview">
+    <img src="site_atual.png" width="780" height="450" alt="Online resume preview">
   </a>
 </div>
 
